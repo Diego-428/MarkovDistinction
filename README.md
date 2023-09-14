@@ -11,7 +11,16 @@
 
 ### Project Description
 
-  This program generates an image with a fractal-like nature and is distorted, recolored and magnified dependeing
-  on the user's input (between 1 - 15) which will trigger a sequence of more integer/config. to dictate the overall   attributes of the image. This doesn't mean that only 15 images can be generated. This means there are 15 initital   states which diverage and interact with other configurations using the probability table to multiply the number     of possible images to be generated
+  This program generates an image with a fractal-like nature and is distorted, recolored, and magnified depending
+  on the user's input (between 1 and 15) which will trigger a sequence of more integers/config. to dictate the        overall attributes of the image. This doesn't mean that only 15 images can be generated. This means there are 15    initial states that diverge and interact with other configurations using the probability table to multiply the      number of possible images to be generated
+
+  #### Meaning
+
+  As an artist, I enjoy drawing pieces that are non-object, abstract, and obscure to the human eye. I enjoy that my 
+  pieces puzzle people into questioning if there's a deeper meaning in such elaborate pieces. This wasn't my 
+  initial idea when deciding what to work on. I instead decided to try to imitate art created by a person (me) 
+  which is non-objective with no particular purpose, yet elaborate and complicated.
+
+  ![example image](https://github.com/Diego-428/MarkovDistinction/blob/main/example/example%203.png?raw=true)
 
   
