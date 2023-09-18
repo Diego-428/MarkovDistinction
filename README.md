@@ -31,8 +31,13 @@
   #### Creative?
   **I would consider this system to be creative** for its ability to create detailed images using very little user 
   input and for the reason that it fulfills my unique need for artistic inspiration for obscure art. Although I 
-  consult the internet to find the mathematical operations needed to create a singular fractal image, this system     extends beyond the limitations of the mathematical model to generate many different images with irregular shapes    and little relation to the original image. 
+  consult the internet to find the mathematical operations needed to create a singular fractal image, this system     extends beyond the limitations of the mathematical model to generate many different images with irregular shapes and little relation to the original image. 
 
   ![example image](https://github.com/Diego-428/MarkovDistinction/blob/main/example/example%203.png?raw=true)
+
+  #### Sources:
+
+  In order to learn how fractal patterns work in relation to their mathematical model, I guidance from the following source:]
+  https://www.geeksforgeeks.org/julia-fractal-python/
 
   
